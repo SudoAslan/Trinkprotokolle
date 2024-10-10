@@ -1,4 +1,4 @@
-![Homepage](./TrinkProtokolle/Bildschirmfotovom2024-10-10 15-45-20.png)
+![Beschreibung deines Bildes](./Trinkprotokolle%20/Bildschirmfoto%20vom%202024-10-10%2015-45-20.png)
 
 
 

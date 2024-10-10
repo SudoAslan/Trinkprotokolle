@@ -1,6 +1,6 @@
 ![Beschreibung deines Bildes](./meinbild.png)
 ![Beschreibung deines Bildes](./Trinkprotokolle
-/Bildschirmfoto vom 2024-10-10 15-45-20.pn)
+/Bildschirmfoto vom 2024-10-10 15-45-20.png)
 
 
 

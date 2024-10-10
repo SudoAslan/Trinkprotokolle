@@ -1,0 +1,55 @@
+/* Stil für Karten mit Hover-Effekt */
+.card-hover {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border: 1px solid #d0d0d0; /* Standard-Rahmenfarbe */
+}
+
+.card-hover:hover {
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    background-color: #f9f9f9; /* Optional: Hintergrundfarbe beim Hover */
+    border-color: #b0b0b0; /* Dunklerer Rahmen beim Hover */
+}
+
+/* Stil für Karten mit Schatten */
+.card-shadow {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease-in-out;
+    border: 1px solid #d0d0d0; /* Standard-Rahmenfarbe */
+}
+
+.card-shadow:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+    border-color: #b0b0b0; /* Dunklerer Rahmen beim Hover */
+}
+
+/* Stil für benutzerdefinierte Buttons */
+.custom-button {
+    padding: 10px 20px; /* Hinzufügen von Innenabstand */
+    border: none; /* Keine Standardrahmen */
+    border-radius: 4px; /* Abgerundete Ecken */
+    background-color: #007bff; /* Primärfarbe für den Button */
+    color: #fff; /* Weißer Text */
+    font-size: 16px; /* Größere Schriftgröße */
+    cursor: pointer; /* Zeigt die Hand-Cursor an */
+    transition: background-color 0.3s ease-in-out, transform 0.3s ease-in-out; /* Sanfter Übergang */
+}
+
+.custom-button:hover {
+    background-color: #0056b3; /* Dunklere Farbe beim Hover */
+    transform: scale(1.05); /* Vergrößert den Button beim Hover */
+}
+
+/* Stil für benutzerdefinierten rechten Abstand */
+.custom-margin-right {
+    margin-right: 20px; /* Leicht angepasster Abstand für bessere visuelle Balance */
+}
+
+/* Optional: Weitere Button-Stile */
+.custom-button-secondary {
+    background-color: #6c757d; /* Sekundärfarbe für den Button */
+}
+
+.custom-button-secondary:hover {
+    background-color: #5a6268; /* Dunklere Farbe beim Hover */
+}

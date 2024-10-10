@@ -1,3 +1,10 @@
+![Beschreibung deines Bildes](./meinbild.png)
+![Beschreibung deines Bildes](./Bildschirmfoto vom 2024-10-10 15-45-20.png)
+
+
+
+
+
 # Trinkprotokoll-Website
 Dieses Projekt wurde im Rahmen des Moduls Web-Engineering II erstellt und dient der Verwaltung von Patientenprotokollen.
 
